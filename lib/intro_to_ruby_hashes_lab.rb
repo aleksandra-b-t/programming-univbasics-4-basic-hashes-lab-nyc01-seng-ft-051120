@@ -5,7 +5,7 @@ end
 
 def my_hash
   my = {
-    :color => blue
+    :color => "blue"
   }
   my
 end
