@@ -12,7 +12,8 @@ end
 
 def pioneer
   pioneer = {
-    :name and a corresponding value of 'Grace Hopper'
+    :name => 'Grace Hopper'
+  }
 end
 
 
