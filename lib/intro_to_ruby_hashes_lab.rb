@@ -7,7 +7,7 @@ def my_hash
   my = {
     :color => "blue"
   }
-  my
+  
 end
 
 def pioneer
